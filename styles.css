@@ -1,0 +1,169 @@
+body
+{
+    font-family: 'Lato', sans-serif;
+    margin:auto;
+}
+.h1
+{
+    
+    text-align: left;
+    align-items: top;
+    margin-left: 150px;
+    padding-top: 180px;
+    font-size: 60px;
+    font-family: bold ;
+}
+.p
+{
+    
+    text-align: left;
+    align-items: top;
+    margin-left: 150px;
+    font-size: 18px;
+    font-family: normal;
+}
+.btn
+{
+   
+    align-items: center;
+    width: 177px;
+    height: 64px;
+    margin-left: 150px;
+    background: #E55473;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    
+}
+
+.header
+{
+    display: flex;
+    gap: 100px;
+    background:#f1cbd3 ;
+    width: 1519px;
+    height: 577px;
+    min-height:100vh;
+    background-size: cover;
+    background-position: center;
+
+    
+}
+.images
+{
+    width: 540px;
+    height: 690px;
+    margin-top: 23px;
+    margin-right: 150px;
+}
+/*finish the header section*/
+ 
+
+.pp
+{
+    font-size: 18px;
+    font-family: normal; 
+    text-align: auto;
+    align-items: top;
+ 
+}
+.sec-1
+{
+    font-family: bold;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 150px;
+
+}
+.container
+{
+  
+    display: flex;
+    text-align: center;
+    gap: 20px;
+    margin-left: 300px;
+     width: 280px;
+    height: 400px;
+}
+.img-1
+{
+    margin-top: 20px;
+    background-color: #ae899b;
+    width:290px;
+    height: 398px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.img-2
+{
+    margin-top: 20px;
+    background-color: #abc0c1;
+    width: 290px;
+    height: 398px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.img-3
+{
+    margin-top: 20px;
+    background-color: #b6c4a8;
+    width: 290px;
+    height: 398px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.h6
+{
+    margin-top: 10px;
+    font-size: 24px;
+}
+/*section-1 finish*/
+.sec-2
+{
+    
+    background: #e6eddf;
+    width: 912px;
+    height: 320px;
+    margin-left: 300px;
+}
+.container-2
+{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    margin-left: 150px;
+    margin-top: 200px;
+    padding-top: 100px;
+}
+/*section-2finish*/
+.sec-3
+{
+    margin-top: 150px;
+    background:#f1cbd3;
+    width:1519px;
+    height: 400px;
+    text-align: left;
+    padding-top: 200px;
+    
+}
+.hh2
+{ 
+    font-size: 40px;
+    margin-left: 150px;
+  
+}
+.pp2
+{
+    margin-left: 150px;
+    align-items: center;
+}
+.container-3
+{
+display: flex;
+}
+
+
+
+
+
+
