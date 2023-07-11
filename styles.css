@@ -3,9 +3,9 @@ body
     font-family: 'Lato', sans-serif;
     margin:auto;
 }
+
 .h1
 {
-    
     text-align: left;
     align-items: top;
     margin-left: 150px;
@@ -13,42 +13,41 @@ body
     font-size: 60px;
     font-family: bold ;
 }
+
 .p
-{
-    
+{ 
     text-align: left;
     align-items: top;
     margin-left: 150px;
     font-size: 18px;
     font-family: normal;
+    color:#9b9a9a;
 }
+
 .btn
 {
-   
     align-items: center;
     width: 177px;
     height: 64px;
     margin-left: 150px;
-    background: #E55473;
+    background: #E55473 ;
     border: none;
     border-radius: 10px;
-    color: #fff;
-    
+    color: #fff;  
 }
 
 .header
 {
     display: flex;
     gap: 100px;
-    background:#f1cbd3 ;
+    background:#ecd9dd ;
     width: 1519px;
     height: 577px;
     min-height:100vh;
     background-size: cover;
-    background-position: center;
-
-    
+    background-position: center; 
 }
+
 .images
 {
     width: 540px;
@@ -56,28 +55,28 @@ body
     margin-top: 23px;
     margin-right: 150px;
 }
+
 /*finish the header section*/
  
-
 .pp
 {
     font-size: 18px;
     font-family: normal; 
     text-align: auto;
     align-items: top;
- 
+    color:#d1cece;
 }
+
 .sec-1
 {
     font-family: bold;
     font-size: 40px;
     text-align: center;
     margin-top: 150px;
-
 }
+
 .container
 {
-  
     display: flex;
     text-align: center;
     gap: 20px;
@@ -85,6 +84,7 @@ body
      width: 280px;
     height: 400px;
 }
+
 .img-1
 {
     margin-top: 20px;
@@ -94,6 +94,7 @@ body
     border-top-right-radius: 50%;
     border-top-left-radius: 50%;
 }
+
 .img-2
 {
     margin-top: 20px;
@@ -103,6 +104,7 @@ body
     border-top-right-radius: 50%;
     border-top-left-radius: 50%;
 }
+
 .img-3
 {
     margin-top: 20px;
@@ -112,34 +114,41 @@ body
     border-top-right-radius: 50%;
     border-top-left-radius: 50%;
 }
+
 .h6
 {
     margin-top: 10px;
     font-size: 24px;
 }
+
 /*section-1 finish*/
+
 .sec-2
 {
     
-    background: #e6eddf;
+    background: #f4f7f1;
     width: 912px;
     height: 320px;
     margin-left: 300px;
 }
+
 .container-2
 {
     display: flex;
     align-items: center;
+    text-align: center;
     gap: 100px;
     margin-left: 150px;
     margin-top: 200px;
     padding-top: 100px;
 }
+
 /*section-2finish*/
+
 .sec-3
 {
     margin-top: 150px;
-    background:#f1cbd3;
+    background:#ecd9dd;
     width: 1519px;
     height: 400px;
     text-align: left;
@@ -147,28 +156,32 @@ body
     padding-bottom: 100px;
   
 }
+
 .hh2
 { 
+    padding-top: 100px;
     text-align: center;
     font-size: 40px;
-    margin-left: 170px;
-  
+    margin-left: 190px;
+    font-family: bold;
 }
+
 .pp2
 {
     font-family: normal;
     text-align: center;
     margin-left: 170px;
     align-items: center;
+    color:#9b9a9a;
 }
+
 .container-3
 {
-    
     display: flex;
-    gap: 200px;
-   margin-bottom: 200px;
-
+    gap: 100px;
+    margin-bottom: 200px;
 }
+
 .btn-4
 { 
     
@@ -178,35 +191,39 @@ body
     background: #E55473;
     border: none;
     border-radius: 10px;
-    color: #fff;
+    color: #ffffff;
     align-items: center;
 }
+
 .ima1s
 {
     width: 318px;
     height: 420px;
     margin-bottom: 100px;
+    margin-left: 150px;
 }
+
 /*section-3finish*/
+
  .sec-4
  {
-   
     margin-top: 150px;
-   text-align: center;
-
-   
+    text-align: center;
  }
+
  .head-1
  {
     font-size: 40px;
-  
-
+    font-family: bold;
  }
+
  .pera-1
  {
     font-size: 18px;
     font-family: normal;
+    color:#a8a7a7;
  }
+
  .container-4
  {
     margin-top: 50px;
@@ -214,12 +231,15 @@ body
     gap: 30px;
     margin-left: 150px;
  }
+
 .img-4
 {
     width: 280px;
     height: 339px;
 }
+
 /*section-4 finish*/
+
 .container-5{
     background-image: url(Flower/Rectangle\ 9.png);
     background-repeat: no-repeat;
@@ -235,26 +255,27 @@ body
     text-align: center;
     font-size: 40px;
     font-family: bold;
-
 }
+
 .last-pera
 {
     font-size: 18px;
     font-family: normal;
     text-align: center;
-
+    color:#a1a1a1;
 }
+
 .form-5
 {
     width:466px;
     height: 60px;
     border-radius: 10px;
-    padding-left: 50px;
+    padding-left: 30px;
     margin-left: 440px;
     border: none;
     margin-top: 60px;
-
 }
+
 .btn-5
 {
     width:150px;
@@ -264,7 +285,9 @@ body
     border:none;
     color:#fff;
 }
+
 /*section-5 and main complete*/
+
 .footer
 {
     margin-top: 150px;
@@ -277,33 +300,35 @@ body
 {
     padding-top: 110px;
 }
+
 .last-heading-2
 {
     font-size: 48px;
     color:#fff ;
     font-family: bold;
-
 }
+
 .last-heading-3
 {
     font-size: 18px;
-    color:#fff ;
+    color:#d2d0d0 ;
     font-family: normal;
-    
-   
 }
+
 .last-pera-3
 {
-    color:#b3b2b2 ;
+    color:#bcbaba ;
     font-size: 14px;
-    font-family: normal;
-    
-    
+    font-family: normal;  
 }
+
 .flower
 {
     color:#E55473;
-}
+}   
+
+
+
 /*complete the project*//*project is finish*/
 
 
