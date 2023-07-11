@@ -220,65 +220,93 @@ body
     height: 339px;
 }
 /*section-4 finish*/
-.sec-5
-{
+.container-5{
+    background-image: url(Flower/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 449px;
+   margin-top: 150px;
+   margin-left: 40px;
+}
 
-    
-    align-items: center;
+.last-heading
+{
+    padding-top: 110px;
     text-align: center;
     font-size: 40px;
-   
-    
+    font-family: bold;
 
 }
-.container-5
+.last-pera
 {
-    background:url(Flower/Rectangle\ 9.png);
-    background-repeat:no-repeat;
-    width: 1400px ;
-    height: 449px;
-    margin-left: 55px;
-    
-}
-
-.btn-6
-{
-    width: 150px;
-    height: 60px;
-    background-color: #E55473;
-    color: #fff;
-    text-align: center;
-    border-radius: 10px;
-    border:none;
-
-}
-.from-1
-{
-    width: 400px;
-    height: 57px;
-    padding-left: 50px;
-    border-radius: 10px;
-    border: none;
-    margin-left: 100px;
-    margin-top: 150px;
-    
-    
-}
-.head-2
-{
-    margin-top: 100px;
-   font-family: bold;
-   
-}
-.pera-2
-{
-    margin-left: 450px;
     font-size: 18px;
     font-family: normal;
-   
-   
+    text-align: center;
 
 }
+.form-5
+{
+    width:466px;
+    height: 60px;
+    border-radius: 10px;
+    padding-left: 50px;
+    margin-left: 440px;
+    border: none;
+    margin-top: 60px;
+
+}
+.btn-5
+{
+    width:150px;
+    height: 60px; 
+    border-radius: 10px;
+    background-color: #E55473;
+    border:none;
+    color:#fff;
+}
+/*section-5 and main complete*/
+.footer
+{
+    margin-top: 150px;
+    background-color: black;
+    width: 1519px;
+    height: 390px;
+    text-align: center;
+}
+.footer-last
+{
+    padding-top: 110px;
+}
+.last-heading-2
+{
+    font-size: 48px;
+    color:#fff ;
+    font-family: bold;
+
+}
+.last-heading-3
+{
+    font-size: 18px;
+    color:#fff ;
+    font-family: normal;
+    
+   
+}
+.last-pera-3
+{
+    color:#fff ;
+    font-size: 14px;
+    font-family: normal;
+    
+}
+.flower
+{
+    color:#E55473;
+}
+/*complete the project*//*project is finish*/
+
+
+
 
 
 
